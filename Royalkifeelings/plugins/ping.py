@@ -7,7 +7,7 @@ from Royalkifeelings import bot as Royalboyamit
 @Royalboyamit.on_message(filters.command(["ping"], ["/", ".", "!"]))
 async def ping(Client, message):
     start = datetime.now()
-    loda = await message.reply_text("**» 𝐊ᴀᴀʟ 𝐌ᴜsɪᴄ**")
+    loda = await message.reply_text("**» 𝐌𝙰𝙷𝙸 𝐌ᴜsɪᴄ**")
     end = datetime.now()
     mp = (end - start).microseconds / 1000
     await loda.edit_text(f"**🤖 Poɴɢ\n»** `{mp} ms`")
