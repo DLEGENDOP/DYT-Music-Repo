@@ -21,11 +21,11 @@ def ytsearch(query):
 def audio_markup(user_id):
   buttons = [
     [
-      InlineKeyboardButton(text="➷ 𝐔𝗽𝗱𝗮𝘁𝗲𝐒 ➹", url=f"https://t.me/royalkifeelings_12"),
-      InlineKeyboardButton(text="➹ 𝐒𝘂𝗽𝗽𝗼𝗿𝐓 ➷", url=f"https://t.me/royalkifeelings"),
+      InlineKeyboardButton(text="🌷 𝐔𝗽𝗱𝗮𝘁𝗲𝐒 🌷", url=f"https://t.me/Classics0012"),
+      InlineKeyboardButton(text="🌷 𝐒𝘂𝗽𝗽𝗼𝗿𝐓 🌷", url=f"https://t.me/Classics002"),
     ],
     [
-      InlineKeyboardButton(text="✯ 𝗢𝘄𝗻𝗲𝗿'𝘅𝗗 ✯", url=f"https://t.me/royal_boy_amit"),
+      InlineKeyboardButton(text="💫 𝗢𝘄𝗻𝗲𝗿'𝘅𝗗 💫", url=f"https://t.me/MahiSharmaVCassistant"),
     ],
     [
       InlineKeyboardButton(text="★ 𝐂ʟᴏ𝐬ᴇ ★", callback_data=f'cls'),
@@ -36,11 +36,11 @@ def audio_markup(user_id):
 def stream_markup(user_id, dlurl):
   buttons = [
     [
-      InlineKeyboardButton(text="➷ 𝐔𝗽𝗱𝗮𝘁𝗲𝐒 ➹", url=f"https://t.me/royalkifeelings_12"),
-      InlineKeyboardButton(text="➹ 𝐒𝘂𝗽𝗽𝗼𝗿𝐓 ➷", url=f"https://t.me/royalkifeelings"),
+      InlineKeyboardButton(text="🌷 𝐔𝗽𝗱𝗮𝘁𝗲𝐒 🌷", url=f"https://t.me/Classics0012"),
+      InlineKeyboardButton(text="🌷 𝐒𝘂𝗽𝗽𝗼𝗿𝐓 🌷", url=f"https://t.me/Classics002"),
     ],
     [
-      InlineKeyboardButton(text="✯ 𝗢𝘄𝗻𝗲𝗿'𝘅𝗗 ✯", url=f"https://t.me/royal_boy_amit"),
+      InlineKeyboardButton(text="💫 𝗢𝘄𝗻𝗲𝗿'𝘅𝗗 💫", url=f"https://t.me/MahiSharmaVCassistant"),
     ], 
     [
       InlineKeyboardButton(text="★ 𝐂ʟᴏ𝐬ᴇ ★", callback_data=f'cls'),
@@ -51,7 +51,7 @@ def stream_markup(user_id, dlurl):
 def menu_markup(user_id):
   buttons = [
      [InlineKeyboardButton(text="🔇", callback_data=f'cbmute | {user_id}'),
-      InlineKeyboardButton(text="ᴜᴩᴅᴀᴛᴇs", url=f"https://t.me/spotif_ymusic31_bot"),
+      InlineKeyboardButton(text="ᴜᴩᴅᴀᴛᴇs", url=f"https://t.me/DevilMuSic01Bot"),
       InlineKeyboardButton(text="🔊", callback_data=f'cbunmute | {user_id}')],
   ]
   return buttons
