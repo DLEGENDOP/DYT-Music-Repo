@@ -52,7 +52,7 @@ async def start(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "✯ 𝐉ᴏɪɴ 𝐌ʏ 𝐂ʜᴀᴛ 𝐆ʀᴏᴜᴘ ✯", url=f"@Classics002")
+                        "✯ 𝐉ᴏɪɴ 𝐌ʏ 𝐂ʜᴀᴛ 𝐆ʀᴏᴜᴘ ✯", url=f"https://t.me/Classics002")
                 ]
                 
            ]
