@@ -13,22 +13,22 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "26781382",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "bdcc2fed12e5aa479fbaccaab6bd40fb",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "6111906335:AAH3QnzT3S5sl5SQAVGIVHQpCKc_2bfxEC0",
         "required": true
       },
       "OWNER_ID": {
         "description": "Fill your user id here. (Must be integer)",
-        "value": "6256455516",
+        "value": "5255001826",
         "required": true
       },
       "SESSION_NAME": {
@@ -38,12 +38,12 @@
       },
       "SUDO_USERS": {
         "description": "The user id(s) of user(s) whom you would like to add as a sudo. Multiple values shall be seperated with a space.",
-        "value": "",
+        "value": "5255001826",
         "required": true
       },
       "BOT_USERNAME": {
         "description": "ur bot username",
-        "value": "KAALXMUSIC34bot",
+        "value": "MahiSharmaVCbot",
         "required": true
       }
     },
